@@ -7,7 +7,7 @@
   "repository": "https://github.com/fantasmfactory/clonebot",
   "env": {
         "APP_ID": {"description": "7664988", "required": true},
-        "API_HASH": {"description": "11e0d24d71cef15a43192e227c8efee9" , "required":true},
+        "API_HASH": {"description": "11e0d24d71cef15a43192e227c8efee9" , "required": true},
         "TG_BOT_TOKEN": {"description": "5108256911:AAEmr4BoWNGLsLogmpuh9-RqQQbY3ysLIYs","required": true},
         "TG_USER_SESSION": {"description": "BQAjy1_h2Uh1-DPPOE_4IaYZ-zZ_aUSmyQDH4qxvBLCDzfHZNM1Fc847NZaWYGlc0HMknS6IjxSGGTixtQwTI6QCrhBT3yh8-4eDRVXzAfidYPAEaH3fCNJ5Dkd95hGE405wKHh4BGfSMZWrAnn9XUe1Kba2GE_UASP1iLgOBFlWYDDEJkyCVuy-cjHHVFGSpeJ_3Kdcah9oC4zw3w5VdFPVDNEC7tEHtGV-8uEIMX9WFQVFqVyzMqe96M9Ll5WwChSuq70MyKpo3LHRC9jdOVdHLYU_NrFg8ZsinGrgXmrfL8XOGx79pex0WvzPJuC2RuDTAoJ650yc6nViYlYMsiNGAAAAATNguUQB","required": true},
         "AUTH_USERS": {"description": "710532288", "required": false},
