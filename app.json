@@ -6,12 +6,12 @@
   "website": "https://github.com/m4mallu/conebot",
   "repository": "https://github.com/fantasmfactory/clonebot",
   "env": {
-        "APP_ID": "7664988" {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": "11e0d24d71cef15a43192e227c8efee9" {"description": "Get this value from https://my.telegram.org" , "required": true},
+        "APP_ID": "7664988"{"description": "Get this value from https://my.telegram.org", "required": true},
+        "API_HASH": "11e0d24d71cef15a43192e227c8efee9"{"description": "Get this value from https://my.telegram.org" , "required": true},
         "TG_BOT_TOKEN": "5156944196:AAGfp4NMY5tNtA-sQRiokoHE2Jy8eUA5pAI" {"description": "Get Bot Token From BotFather Bot","required": true},
-        "TG_USER_SESSION": "BQAjy1_h2Uh1-DPPOE_4IaYZ-zZ_aUSmyQDH4qxvBLCDzfHZNM1Fc847NZaWYGlc0HMknS6IjxSGGTixtQwTI6QCrhBT3yh8-4eDRVXzAfidYPAEaH3fCNJ5Dkd95hGE405wKHh4BGfSMZWrAnn9XUe1Kba2GE_UASP1iLgOBFlWYDDEJkyCVuy-cjHHVFGSpeJ_3Kdcah9oC4zw3w5VdFPVDNEC7tEHtGV-8uEIMX9WFQVFqVyzMqe96M9Ll5WwChSuq70MyKpo3LHRC9jdOVdHLYU_NrFg8ZsinGrgXmrfL8XOGx79pex0WvzPJuC2RuDTAoJ650yc6nViYlYMsiNGAAAAATNguUQB" {"description": "String Session from an admin user. Go to: t.ly/GxsB ","required": true},
-        "AUTH_USERS": "710532288" {"description": "User ids of authorized users separated by space", "required": false},
-        "ENV": "ANYTHING" {"description": "Set this to ANYTHING","value": "ANYTHING"}
+        "TG_USER_SESSION": "BQAjy1_h2Uh1-DPPOE_4IaYZ-zZ_aUSmyQDH4qxvBLCDzfHZNM1Fc847NZaWYGlc0HMknS6IjxSGGTixtQwTI6QCrhBT3yh8-4eDRVXzAfidYPAEaH3fCNJ5Dkd95hGE405wKHh4BGfSMZWrAnn9XUe1Kba2GE_UASP1iLgOBFlWYDDEJkyCVuy-cjHHVFGSpeJ_3Kdcah9oC4zw3w5VdFPVDNEC7tEHtGV-8uEIMX9WFQVFqVyzMqe96M9Ll5WwChSuq70MyKpo3LHRC9jdOVdHLYU_NrFg8ZsinGrgXmrfL8XOGx79pex0WvzPJuC2RuDTAoJ650yc6nViYlYMsiNGAAAAATNguUQB"{"description": "String Session from an admin user. Go to: t.ly/GxsB ","required": true},
+        "AUTH_USERS": "710532288"{"description": "User ids of authorized users separated by space", "required": false},
+        "ENV": "ANYTHING"{"description": "Set this to ANYTHING","value": "ANYTHING"}
   },
   "addons": [
     {
